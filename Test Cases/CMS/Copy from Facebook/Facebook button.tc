@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa924365-93df-4c0f-8584-4639751c93a7</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook button'</defaultValue>
+      <description></description>
+      <id>fb3acdf4-9530-4b39-b0f9-20c7b2b0ee0e</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbbtn'</defaultValue>
+      <description></description>
+      <id>8cd55e70-4ab9-4de0-b665-1a61b9acecf0</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

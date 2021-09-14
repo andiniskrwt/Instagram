@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Promotion Listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a71b036b-af1e-4f56-8a2f-e38469de88b2</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook Promotion Listing'</defaultValue>
+      <description></description>
+      <id>bdb5e8cc-5c5b-4227-9963-84b8acacebbe</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbpl'</defaultValue>
+      <description></description>
+      <id>0a78bdf2-a9e8-483f-86bf-c4a377581225</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

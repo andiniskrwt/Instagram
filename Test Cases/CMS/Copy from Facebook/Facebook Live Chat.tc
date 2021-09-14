@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Live Chat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac52bcf3-a7e5-468a-ae60-1cadac2d0253</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook Live Chat'</defaultValue>
+      <description></description>
+      <id>92cd43c2-c1ed-40d4-94ab-37b4d743cf27</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfblc'</defaultValue>
+      <description></description>
+      <id>298e0564-8af2-4047-82cc-4e7035fc4bf2</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

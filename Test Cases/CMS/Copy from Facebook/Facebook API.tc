@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a0f959f-079e-43af-ae7c-191006038d1b</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook API'</defaultValue>
+      <description></description>
+      <id>28abcb11-fedd-48f4-9437-fb12bf2c4f9b</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbapi'</defaultValue>
+      <description></description>
+      <id>bdd17842-8bb7-4439-9936-a16ebca95e68</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

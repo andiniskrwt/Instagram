@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Media Template</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08bd6f64-e605-4fb8-b806-c5bd9ff728bc</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook Media Template'</defaultValue>
+      <description></description>
+      <id>1524f837-f17a-4696-ace2-9af8f7955bc2</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbmt'</defaultValue>
+      <description></description>
+      <id>609d86c5-04f5-4bb0-82cb-84ca2757b7dd</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

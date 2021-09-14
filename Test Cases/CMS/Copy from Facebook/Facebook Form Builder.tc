@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Form Builder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba4b6610-4bf0-44ed-a0db-bedad56c89d4</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook Form builder'</defaultValue>
+      <description></description>
+      <id>32174ba0-37c2-41df-a4dd-4d90ae7268bd</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbfb'</defaultValue>
+      <description></description>
+      <id>0fb2ca5a-fa76-493a-9194-87e2c5e02677</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

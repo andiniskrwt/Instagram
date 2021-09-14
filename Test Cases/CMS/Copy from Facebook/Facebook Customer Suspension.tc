@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Customer Suspension</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>694c226b-e779-4f4f-9fd1-e6d8143fa95c</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook Customer Suspension'</defaultValue>
+      <description></description>
+      <id>5f4d71be-1aef-4a08-bd97-19f98b7c9c2d</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbcs'</defaultValue>
+      <description></description>
+      <id>bfe6b5eb-e46b-4b06-840f-1ac63eb60b96</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Instagram Quick Reply</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab69a591-4587-4398-8a22-d66b6f475bcf</testCaseGuid>
+   <variable>
+      <defaultValue>'Instagram Quick Reply'</defaultValue>
+      <description></description>
+      <id>a8acca2c-2fb7-4c82-aa13-027d836e25dd</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kigqr'</defaultValue>
+      <description></description>
+      <id>8e0c6489-8b08-4ca4-9743-9547bdc812a8</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

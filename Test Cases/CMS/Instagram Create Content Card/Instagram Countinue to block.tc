@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Instagram Countinue to block</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b61d69d-3577-4385-80bf-b5f534cf04ed</testCaseGuid>
+   <variable>
+      <defaultValue>'Instagram CTB'</defaultValue>
+      <description></description>
+      <id>50d7996a-0d69-43dc-b073-cff91601c160</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kigctb'</defaultValue>
+      <description></description>
+      <id>db4f9ee5-5ce4-45da-b9a8-cd9a57a283e0</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

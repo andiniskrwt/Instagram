@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Customer Tag</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d41f78ee-41fb-4375-adc0-2cdcf5593b67</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook Customer Tag'</defaultValue>
+      <description></description>
+      <id>fa5389d2-0622-493d-b9a5-06be1d9667e0</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbct'</defaultValue>
+      <description></description>
+      <id>d42fbd7b-7efc-4bf2-9c7a-51d941061279</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

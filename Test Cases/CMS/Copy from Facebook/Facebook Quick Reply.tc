@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Quick Reply</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c105ac7-00a2-41a8-bd76-ae2ceea966fc</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook Quick Reply'</defaultValue>
+      <description></description>
+      <id>760291bc-66bb-4fad-94a6-e00f67511b57</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbqr'</defaultValue>
+      <description></description>
+      <id>dec2674b-8cca-4051-91de-0fe3a14b0760</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

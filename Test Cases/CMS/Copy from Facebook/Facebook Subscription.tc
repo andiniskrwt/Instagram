@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Subscription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1f23217-13ab-4fdf-9cac-4081f31dae12</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook Subscription'</defaultValue>
+      <description></description>
+      <id>3f2f78fd-9c11-4416-ae14-2e6f92e9eae2</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbs'</defaultValue>
+      <description></description>
+      <id>2eb6e314-c3d0-4b47-82f7-d8d60cb07a41</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Instagram Live Chat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d87a39c2-8d6e-48fc-8e15-4fe449bc710b</testCaseGuid>
+   <variable>
+      <defaultValue>'Instagram Live Chat'</defaultValue>
+      <description></description>
+      <id>207cc7e3-dd66-4f42-bf01-05458d9e78d1</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kiglc'</defaultValue>
+      <description></description>
+      <id>40be0af9-d806-4341-b417-f03c1789f646</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

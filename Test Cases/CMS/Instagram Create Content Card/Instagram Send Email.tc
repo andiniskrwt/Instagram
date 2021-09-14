@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Instagram Send Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43409509-9fb0-4522-a871-7fd3408667bc</testCaseGuid>
+   <variable>
+      <defaultValue>'Instagram Send Email'</defaultValue>
+      <description></description>
+      <id>f6f4d5c4-a7d2-4171-b087-7e427f952e02</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kigse'</defaultValue>
+      <description></description>
+      <id>51e2afdb-ada1-46d6-9280-aeec845d5e63</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

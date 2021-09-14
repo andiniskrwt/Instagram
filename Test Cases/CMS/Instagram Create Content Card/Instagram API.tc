@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Instagram API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2309f14-1bd7-49b5-b488-9255acce2619</testCaseGuid>
+   <variable>
+      <defaultValue>'Instagram API'</defaultValue>
+      <description></description>
+      <id>5865adab-510e-4bf5-a1bf-6bc005c0d45c</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kigapi'</defaultValue>
+      <description></description>
+      <id>8e49ce19-ae0f-4ef4-9a6d-9e78d46f0a88</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

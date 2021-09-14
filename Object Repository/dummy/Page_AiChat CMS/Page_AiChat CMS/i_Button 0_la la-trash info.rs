@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Button 0_la la-trash info</name>
+   <tag></tag>
+   <elementGuidId>0ce51b8b-191d-4bf2-b560-54e8ae4cd908</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root-content']/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-trash info</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root-content&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;fade tab-pane active show&quot;]/div[@class=&quot;p-2 bg-white tab-content&quot;]/div[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;card-item-wrapper col-sm-12&quot;]/div[@class=&quot;col-card col-card--single&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;heading-elements&quot;]/a[1]/i[@class=&quot;la la-trash info&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root-content']/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/a/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/div/div/div/a/i</value>
+   </webElementXpaths>
+</WebElementEntity>

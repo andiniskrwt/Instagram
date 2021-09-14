@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook FB APP Event</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27d5ab76-a3e1-48ef-822c-707be457b55e</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook FB APP Event'</defaultValue>
+      <description></description>
+      <id>7d788a8e-bf79-4dbe-b87e-77a4b9be325e</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbae'</defaultValue>
+      <description></description>
+      <id>ae317ff8-b03a-4ed4-a02a-13e6a124ceda</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

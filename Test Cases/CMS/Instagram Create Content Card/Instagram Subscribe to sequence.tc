@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Instagram Subscribe to sequence</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b94fc5ac-47a5-46d4-90f6-13c3bc3c9785</testCaseGuid>
+   <variable>
+      <defaultValue>'Instagram Subscribe to a Sequence'</defaultValue>
+      <description></description>
+      <id>9b210d70-6901-465c-9945-a15a48555d4d</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kigsts'</defaultValue>
+      <description></description>
+      <id>68fa557c-e516-4ab7-919a-08dbc9c3ba20</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

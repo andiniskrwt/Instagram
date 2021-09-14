@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook API template</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0315b723-7c62-43af-952b-7d4d396676c4</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook API Template'</defaultValue>
+      <description></description>
+      <id>5d2d13ba-6d67-4a15-835c-45ed2bac1def</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbapit'</defaultValue>
+      <description></description>
+      <id>034b0731-ad8a-44f2-8449-22b52a71a032</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

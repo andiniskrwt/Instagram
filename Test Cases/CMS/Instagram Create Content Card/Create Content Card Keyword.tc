@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Content Card Keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddea608e-1972-4d9b-bdd5-30ecb73a217c</testCaseGuid>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>85d75ad8-c6d0-4178-8588-c856dfa20e65</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>23736969-2414-4e25-a23c-a0d54bbf1604</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

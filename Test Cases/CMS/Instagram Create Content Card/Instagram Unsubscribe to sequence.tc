@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Instagram Unsubscribe to sequence</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6fe29ed-dfba-4aac-a9e1-5826ba4707b7</testCaseGuid>
+   <variable>
+      <defaultValue>'Instagram Unsubscribe from a Sequence'</defaultValue>
+      <description></description>
+      <id>ae1acb27-c2e1-4034-be7d-ac361193e54d</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kigunsub'</defaultValue>
+      <description></description>
+      <id>3142cfb2-7fcd-4c52-91c5-f9b129747375</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

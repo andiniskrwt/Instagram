@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Instagram Customer Attribute Snapshot</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63b924ce-04ed-4bf9-a4eb-d6acfe3b9f8a</testCaseGuid>
+   <variable>
+      <defaultValue>'Instagram Customer Attribute Snapshot'</defaultValue>
+      <description></description>
+      <id>6c8ce83f-06ed-4833-877b-b872cd6d29e1</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kigcas'</defaultValue>
+      <description></description>
+      <id>b27714f3-7699-44b4-9505-9481ff7058b5</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

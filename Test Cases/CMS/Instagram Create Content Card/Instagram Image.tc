@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Instagram Image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddab797d-6bc4-4f29-99f9-905dc29654a3</testCaseGuid>
+   <variable>
+      <defaultValue>'instagram image'</defaultValue>
+      <description></description>
+      <id>ee681ada-baa3-4986-be2a-4449e8ebc86f</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kigimg'</defaultValue>
+      <description></description>
+      <id>387e2774-bb14-4e1f-a271-b76b30098ecc</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>

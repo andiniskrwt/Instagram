@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Facebook Image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e5fc2ab-4f5d-4323-b850-95df4784b3f6</testCaseGuid>
+   <variable>
+      <defaultValue>'Facebook image'</defaultValue>
+      <description></description>
+      <id>419fa01a-4639-4f00-9cdf-03eeee58016c</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'kfbimg'</defaultValue>
+      <description></description>
+      <id>e15f75d4-2ba1-4c1a-a6ee-c714391961b3</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>
