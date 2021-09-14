@@ -52,6 +52,10 @@ WebUI.click(findTestObject('CMS/Content Card/Card Type/Quick Reply/selectValue')
 
 WebUI.click(findTestObject('CMS/Content Card/Create Card/malayTab'))
 
+WebUI.scrollToElement(findTestObject('CMS/Content Card/Card Type/image/scrollTo'), 0)
+
+WebUI.delay(1)
+
 WebUI.click(findTestObject('CMS/Content Card/Card Type/image/browseImage Malay'))
 
 WebUI.uploadFile(findTestObject('CMS/Content Card/Card Type/image/uploadImage'), 'D:\\AiChat\\Instagram\\Data Files\\bigsize.jpg')
@@ -70,9 +74,9 @@ WebUI.setText(findTestObject('CMS/Content Card/Card Type/Quick Reply/input Title
 
 WebUI.click(findTestObject('CMS/Content Card/Create Card/btnSave'))
 
-WebUI.waitForPageLoad(0)
+WebUI.delay(1)
 
-WebUI.takeScreenshot('Screenshot\\FB image.png')
+WebUI.takeFullPageScreenshot('Screenshot\\FB image.png')
 
 WebUI.scrollToElement(findTestObject('CMS/Content Card/Instagram Copy from/scroll to'), 0)
 
@@ -84,7 +88,7 @@ WebUI.click(findTestObject('CMS/Content Card/Instagram Copy from/copyFrom'))
 
 WebUI.delay(0)
 
-WebUI.click(findTestObject('CMS/Content Card/Instagram Copy from/facebookreact4'))
+WebUI.click(findTestObject('CMS/Content Card/Instagram Copy from/facebookreact6'))
 
 WebUI.delay(3)
 

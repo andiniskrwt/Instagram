@@ -17,12 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('CMS/Instagram Create Content Card/Create Content Card Keyword'), [('title') : title, ('keyword') : keyword], 
+WebUI.callTestCase(findTestCase('CMS/Copy from Facebook/Create Content Card Keyword Facebook'), [('title') : title, ('keyword') : keyword], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('CMS/Content Card/Create Card/ig tab'))
-
-WebUI.click(findTestObject('CMS/Content Card/Create Card/btnAddCardIG'))
+WebUI.click(findTestObject('CMS/Content Card/Create Card/fbAddNewCard'))
 
 WebUI.selectOptionByLabel(findTestObject('CMS/Content Card/Create Card/cardDropdown'), 'Customer Attribute Snapshot', false)
 
@@ -30,23 +28,20 @@ WebUI.setText(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapsh
 
 WebUI.click(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/DropdownCustomerAttributes'))
 
-WebUI.setText(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), 
-    'instagram ID')
+WebUI.setText(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), 'instagram ID')
 
-WebUI.sendKeys(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), 
-    Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), Keys.chord(
+        Keys.ENTER))
 
-WebUI.setText(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), 
-    'instagram name')
+WebUI.setText(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), 'instagram name')
 
-WebUI.sendKeys(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), 
-    Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), Keys.chord(
+        Keys.ENTER))
 
-WebUI.setText(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), 
-    'within 24h Window')
+WebUI.setText(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), 'within 24h Window')
 
-WebUI.sendKeys(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), 
-    Keys.chord(Keys.DOWN, Keys.ENTER))
+WebUI.sendKeys(findTestObject('CMS/Content Card/Card Type/CustumerAttributeSnapshot/input_Customer Attributes'), Keys.chord(
+        Keys.DOWN, Keys.ENTER))
 
 WebUI.click(findTestObject('CMS/Content Card/Create Card/btnSaveCard'))
 
@@ -54,9 +49,9 @@ WebUI.verifyTextPresent('Customer Attribute Snapshot Katalon', false)
 
 WebUI.delay(1)
 
-WebUI.takeFullPageScreenshot('Screenshot\\IGCustAttributeSnapshotResult.png')
+WebUI.takeFullPageScreenshot('Screenshot\\FBCustAttributeSnapshotResult.png')
 
-WebUI.click(findTestObject('CMS/Content Card/Create Card/btnAddCardIG'))
+WebUI.click(findTestObject('CMS/Content Card/Create Card/fbAddNewCard'))
 
 WebUI.setText(findTestObject('CMS/Content Card/Card Type/Text/inputText'), 'Success!')
 
@@ -66,5 +61,21 @@ WebUI.setText(findTestObject('CMS/Content Card/Card Type/Text/inputTextMalay'), 
 
 WebUI.click(findTestObject('CMS/Content Card/Create Card/btnSave'))
 
-WebUI.waitForPageLoad(0)
+WebUI.delay(1)
+
+WebUI.scrollToElement(findTestObject('CMS/Content Card/Instagram Copy from/scroll to'), 0)
+
+WebUI.click(findTestObject('CMS/Content Card/Create Card/ig tab'))
+
+WebUI.scrollToPosition(999, 999)
+
+WebUI.click(findTestObject('CMS/Content Card/Instagram Copy from/copyFrom'))
+
+WebUI.delay(0)
+
+WebUI.click(findTestObject('CMS/Content Card/Instagram Copy from/facebookreact6'))
+
+WebUI.delay(3)
+
+WebUI.takeFullPageScreenshot('Screenshot\\Copy From FB CustAttributeSnapshot.png')
 

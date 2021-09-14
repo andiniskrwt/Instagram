@@ -6,14 +6,14 @@
    <comment></comment>
    <testCaseGuid>44ede295-9a1e-420f-a0a4-67d7e3f03dc5</testCaseGuid>
    <variable>
-      <defaultValue>'Instagram Customer Attribute Snapshot'</defaultValue>
+      <defaultValue>'Facebook Customer Attribute Snapshot'</defaultValue>
       <description></description>
       <id>938e52c5-1760-4a27-8ff1-c2f120ad1a7d</id>
       <masked>false</masked>
       <name>title</name>
    </variable>
    <variable>
-      <defaultValue>'kigcas'</defaultValue>
+      <defaultValue>'kfbcas'</defaultValue>
       <description></description>
       <id>11260b4a-8490-4c96-9ab4-2bb859fed33f</id>
       <masked>false</masked>
